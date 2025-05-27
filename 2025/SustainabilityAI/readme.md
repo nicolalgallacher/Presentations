@@ -10,17 +10,18 @@
 
 These are the links to the resources and references we mentioned in our talk:
 
-#### Infrastructure as Code 📝
-- [Infrastructure as Code: The benefits and the tools](https://www.techielass.com/infrastructure-as-code-the-benefits-and-the-tools/)
+#### Azure Datacentre 
+- [Azure Datacentre Overview](https://datacenters.microsoft.com/)
+- [Microsoft Datacentre Sustainability](https://datacenters.microsoft.com/sustainability/)
+- [Microsoft Cloud for Sustainability Overview](https://learn.microsoft.com/en-us/training/modules/cloud-sustainability-overview/)
 
-#### Azure Bicep 💪
-- [Build your first Azure Bicep template](https://youtu.be/yTMYp2cR_Bg)
-- [Fundamentals of Azure Bicep](https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737)
-- [Azure Bicep Docs](https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737)
+#### Title
+- [Link 1](URL)
+- [Link 2](URL)
 
-### More resources
-- [Terraform Associate certification](https://www.hashicorp.com/certification/terraform-associate)
-- [Convert Azure Resources to Terraform](https://github.com/Azure/aztfexport)
+### Connect with Speakers
+- [Sarah Lean](https://www.linkedin.com/in/sazlean/)
+- [Nicola Gallacher](https://www.linkedin.com/in/nicolagallacher/)
 
 
 Thank you for listening to my talk and checking out the resources.
