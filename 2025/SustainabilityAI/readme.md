@@ -15,7 +15,7 @@ These are the links to the resources and references we mentioned in our talk:
 - [Microsoft Datacentre Sustainability](https://datacenters.microsoft.com/sustainability/)
 - [Microsoft Cloud for Sustainability Overview](https://learn.microsoft.com/en-us/training/modules/cloud-sustainability-overview/)
 
-### Innovation for energy
+#### Innovation for energy
 - [Project Natick](https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/)
 - [Hydrogen fuel cells](https://news.microsoft.com/source/features/sustainability/hydrogen-fuel-cells-could-provide-emission-free-backup-power-at-datacenters-microsoft-says/)
 - [Low carbon bricks](https://news.microsoft.com/source/features/sustainability/low-carbon-building-materials-for-datacenters/)
