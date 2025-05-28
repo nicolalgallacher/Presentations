@@ -1,10 +1,4 @@
 # Sustainability & AI
-## Talk Title
-## Abstract
-
-??
-
-## Resources and Links
 
 ### References
 
